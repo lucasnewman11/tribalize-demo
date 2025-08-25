@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { ChevronLeft, ChevronRight, CheckCircle, Loader2 } from 'lucide-react'
+import { ChevronLeft, ChevronRight, CheckCircle } from 'lucide-react'
 import { submitUserForm, getUserById } from '../lib/supabase/submit-form'
 import MatchDisplay from './MatchDisplay'
 
